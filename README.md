@@ -46,7 +46,7 @@
 ---
 
 
-➡️ [more videos...](https://youtube.com/codestackr)
+
 
 ---
 
