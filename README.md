@@ -49,10 +49,10 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/zaid-ahmed-1a31a11a4/" target="_blank">
-  <img align="center" alt="Manzoor Hussain | Linkedin" width="24px" src="./Assets/Linkedin.svg" />
+  <img align="center" alt="Zaid Ahmed | Linkedin" width="24px" src="./Assets/Linkedin.svg" />
 </a> &nbsp;&nbsp;
 <a href="mailto:zaid.ahmed@bil.omu.edu.tr" target="_blank">
-  <img align="center" alt="Manzoor Hussain | Gmail" width="26px" src="./Assets/Gmail.svg" />
+  <img align="center" alt="Zaid Ahmed | Gmail" width="26px" src="./Assets/Gmail.svg" />
 </a> &nbsp;&nbsp;
 <a href="https://docs.google.com/document/d/1aYQ_4gVKT_40Koy9POBI9JsF4uO8G7f241fefm3ePLY/edit?usp=sharing">
     <img align="center" alt="Zaid Ahmed | Resume_tr" width="24px" src="./Assets/resume.png" />
@@ -61,12 +61,3 @@
   
 <br>
   
-<div align=center>
-  <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
-    
-<!-- retro visitor counter -->  
-<p align="center" >   
-  <img src="https://profile-counter.glitch.me/zaidasim232/count.svg" />  
-</p>
-   
