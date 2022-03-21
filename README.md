@@ -46,24 +46,16 @@
  
  <br>
 
-  <div align="center">
-  <h3><b> Connect With Me On <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="26px"> </b></h3>
-  </div>
+
 <p align="center">
-<a href="https://www.linkedin.com/in/manzoor-cs/" target="_blank">
+<a href="https://www.linkedin.com/in/zaid-ahmed-1a31a11a4/" target="_blank">
   <img align="center" alt="Manzoor Hussain | Linkedin" width="24px" src="./Assets/Linkedin.svg" />
 </a> &nbsp;&nbsp;
-<a href="https://twitter.com/Manzoor15760096" target="_blank">
-  <img align="center" alt="Manzoor Hussain| Twitter" width="26px" src="./Assets/Twitter.svg" />
-</a> &nbsp;&nbsp;
-<a href="https://www.instagram.com/manzoor8614/" target="_blank">
-  <img align="center" alt="Manzoor Hussain | Instagram" width="24px" src="./Assets/Instagram.svg" />
-</a> &nbsp;&nbsp;
-<a href="mailto:manzoorhussain4428@gmail.com" target="_blank">
+<a href="mailto:zaid.ahmed@bil.omu.edu.tr" target="_blank">
   <img align="center" alt="Manzoor Hussain | Gmail" width="26px" src="./Assets/Gmail.svg" />
 </a> &nbsp;&nbsp;
-<a href="https://drive.google.com/file/d/1VG7LGIjqSXLfaqpBGl3-9u7i0HtR9Q6Y/view?usp=sharing">
-    <img align="center" alt="Manzoor Hussain | Resume" width="24px" src="./Assets/resume.png" />
+<a href="https://docs.google.com/document/d/1aYQ_4gVKT_40Koy9POBI9JsF4uO8G7f241fefm3ePLY/edit?usp=sharing">
+    <img align="center" alt="Zaid Ahmed | Resume_tr" width="24px" src="./Assets/resume.png" />
 </a> &nbsp;&nbsp;
 <p>
   
