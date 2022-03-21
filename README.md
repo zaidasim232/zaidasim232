@@ -2,17 +2,14 @@
 
 ## I'm a code Developer and a Teacher!!
 
-### Hi there, I'm Manzoor Hussain <img src="./Assets/Hi.gif" width="22px">
 
 ---
 
 <br />
 
 - 🌱 I’m currently learning Machine Learning and  Data Science.
-- 🔭 Ex-intern as a test engineer at  <a href="https://www.sestek.com/" target="_blank">Sestek </a>
-- 🔭 Ex-machine learning intern at <a href="https://technocolabs.com/" target="_blank">Technocolabs </a>
 - 👯 I’m looking to collaborate on Web Development  and AI Projects.
-- ⚡ Fun fact: I'm still learning.
+- ⚡ Fun fact: Reading
 
 <br />
 
@@ -30,18 +27,18 @@
 
 <!--   Stats -->
 ### 📊 GitHub Stats:
-![Darshan R github stats](https://github-readme-stats.vercel.app/api?username=manzoorHusain&theme=nord&show_icons=true&count_private=true)
+![Darshan R github stats](https://github-readme-stats.vercel.app/api?username=zaidasim232&theme=nord&show_icons=true&count_private=true)
  
   
 <!--   Top Languages Using -->
 ### 👨‍💻 Top Languages Used:
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manzoorHusain&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=manzoorHusain&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zaidasim232&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zaidasim232&theme=nord_dark)
 
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=manzoorHusain&theme=github)
+ ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=zaidasim232&theme=github)
 
  <br> 
  
@@ -78,6 +75,6 @@
     
 <!-- retro visitor counter -->  
 <p align="center" >   
-  <img src="https://profile-counter.glitch.me/manzoorHusain/count.svg" />  
+  <img src="https://profile-counter.glitch.me/zaidasim232/count.svg" />  
 </p>
    
