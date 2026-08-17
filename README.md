@@ -4,7 +4,7 @@ Data Scientist • ML Engineer • Generative AI / RAG Engineer
 
 Samsun, Turkey  •  zaid.ahmed@bil.omu.edu.tr  •  +90 554 150 88 76
 
-[LinkedIn](https://linkedin.com/in/zaid-ahmed) • [GitHub](https://github.com/zaidasim232)
+[LinkedIn](https://linkedin.com/in/zaid-ahmed)
 
 ---
 
@@ -22,10 +22,6 @@ Core skills
 - Machine learning & deep learning
 - Transformers, embeddings, RAG
 - MLOps: Docker, basic CI/CD
-
-Projects
-
-- End-to-End ML Project — https://github.com/zaidasim232/Fashion-Recommandation-System
 
 Open to
 
