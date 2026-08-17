@@ -10,8 +10,6 @@ Samsun, Turkey  •  zaid.ahmed@bil.omu.edu.tr  •  +90 554 150 88 76
 
 <img alt="Top language" src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white" height="20"/>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=zaidasim232&show_icons=true)
-
 Quick summary
 
 I build practical machine learning and RAG-powered solutions. I work with Python, scikit-learn, TensorFlow, transformers, embeddings, and deploy models with containers and CI/CD.
